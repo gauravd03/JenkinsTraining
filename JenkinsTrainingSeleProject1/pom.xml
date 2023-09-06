@@ -6,9 +6,9 @@
 
  
 
-  <groupId>com.seleniumproject</groupId>
+  <groupId>com.selenium</groupId>
 
-  <artifactId>Jenkin_project</artifactId>
+  <artifactId>JenkinsTrainingSeleProject1</artifactId>
 
   <version>0.0.1-SNAPSHOT</version>
 
@@ -16,7 +16,7 @@
 
  
 
-  <name>Jenkin_project</name>
+  <name>JenkinsTrainingSeleProject1</name>
 
   <url>http://maven.apache.org</url>
 
