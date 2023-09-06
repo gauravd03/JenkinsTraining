@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-06T12:05:48 IST" name="Default suite" finished-at="2023-09-06T12:05:53 IST" duration-ms="4970">
+  <suite started-at="2023-09-06T12:20:01 IST" name="Default suite" finished-at="2023-09-06T12:20:04 IST" duration-ms="3543">
     <groups>
     </groups>
-    <test started-at="2023-09-06T12:05:48 IST" name="Default test" finished-at="2023-09-06T12:05:53 IST" duration-ms="4970">
-      <class name="com.selenium.JenkinsTrainingSeleProject1.first">
-        <test-method signature="f()[pri:0, instance:com.selenium.JenkinsTrainingSeleProject1.first@53fe15ff]" started-at="2023-09-06T12:05:48 IST" name="f" finished-at="2023-09-06T12:05:53 IST" duration-ms="4930" status="PASS">
+    <test started-at="2023-09-06T12:20:01 IST" name="Default test" finished-at="2023-09-06T12:20:04 IST" duration-ms="3543">
+      <class name="com.selenium.JenkinsTrainingSeleProject1.Practice">
+        <test-method signature="f()[pri:0, instance:com.selenium.JenkinsTrainingSeleProject1.Practice@53fe15ff]" started-at="2023-09-06T12:20:01 IST" name="f" finished-at="2023-09-06T12:20:04 IST" duration-ms="3492" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->
-      </class> <!-- com.selenium.JenkinsTrainingSeleProject1.first -->
+      </class> <!-- com.selenium.JenkinsTrainingSeleProject1.Practice -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
