@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-09-06T12:20:01 IST" name="Default suite" finished-at="2023-09-06T12:20:04 IST" duration-ms="3543">
+  <suite started-at="2023-09-06T12:34:10 IST" name="Default suite" finished-at="2023-09-06T12:34:15 IST" duration-ms="5078">
     <groups>
     </groups>
-    <test started-at="2023-09-06T12:20:01 IST" name="Default test" finished-at="2023-09-06T12:20:04 IST" duration-ms="3543">
+    <test started-at="2023-09-06T12:34:10 IST" name="Default test" finished-at="2023-09-06T12:34:15 IST" duration-ms="5078">
       <class name="com.selenium.JenkinsTrainingSeleProject1.Practice">
-        <test-method signature="f()[pri:0, instance:com.selenium.JenkinsTrainingSeleProject1.Practice@53fe15ff]" started-at="2023-09-06T12:20:01 IST" name="f" finished-at="2023-09-06T12:20:04 IST" duration-ms="3492" status="PASS">
+        <test-method signature="f()[pri:0, instance:com.selenium.JenkinsTrainingSeleProject1.Practice@53fe15ff]" started-at="2023-09-06T12:34:10 IST" name="f" finished-at="2023-09-06T12:34:15 IST" duration-ms="5025" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- f -->

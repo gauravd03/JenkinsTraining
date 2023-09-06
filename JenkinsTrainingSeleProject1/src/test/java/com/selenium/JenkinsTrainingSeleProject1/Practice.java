@@ -17,7 +17,7 @@ public class Practice {
 	 
 	 driver.get("https://www.google.com/");
 			 
-		//driver.findElement(By.id("APjFqb")).sendKeys("hello",KEYS_ENTER);	 
+		driver.findElement(By.id("APjFqb")); 
   }
 
 }
