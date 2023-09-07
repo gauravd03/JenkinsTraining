@@ -1,6 +1,7 @@
 package com.selenium.JenkinsTrainingSeleProject1;
 
 import org.openqa.selenium.By;
+import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
@@ -17,7 +18,7 @@ public class Practice {
 	 
 	 driver.get("https://www.google.com/");
 			 
-		driver.findElement(By.id("APjFqb")); 
+		driver.findElement(By.id("APjFqb")).sendKeys("selenium",Keys.ENTER);
   }
 
 }

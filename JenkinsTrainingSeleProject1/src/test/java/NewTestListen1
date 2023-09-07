@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+
+<listeners>
+
+  <listener class-name="com.selenium.JenkinsTrainingSeleProject1.Listener2">
+
+  </listener>
+
+</listeners>
+ 
+  <test name="Test">
+    <classes>
+      <class name="com.selenium.JenkinsTrainingSeleProject1.NewTestListen1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
